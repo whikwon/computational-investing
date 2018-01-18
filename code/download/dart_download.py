@@ -12,10 +12,11 @@ BASE_URL = 'http://dart.fss.or.kr/api/search.json?auth={}&page_set={}&crp_cd={}&
 PAGE_SET = 100
 START_DT = '20160101'
 END_DT = '20171231'
+kospi200_list_path = './data/kospi200.csv'
 
-kospi200 = pd.read_csv('kospi200.csv')
+kospi200 = pd.read_csv(kospi200_list_path)
 bucket = pd.DataFrame()
-for c in kospi200.iloc[:2, 0]:
+for c in kospi200.iloc[:, 0]:
     c_data = pd.DataFrame()
     crp_cd = '%06d' % (c)
     end_dt = END_DT
