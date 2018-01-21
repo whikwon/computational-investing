@@ -21,4 +21,5 @@ Cousera의 Georgia Institute of Technology - Computational Investing 내용을 �
     - 알고리즘 트레이딩(개인)
 - 준비 사항
     - Github 활용법
-    - Markdown 작성법
+    - Markdown 작성법
+ㅇㅇ
