@@ -26,7 +26,7 @@
   - overconfidence
   - overreaction
   - information bias 
-  - news에 의해서 갑자기 가격이 오르거나 떨어지거나 하는 현상에 대해 다룬다.  
+  - news에 의해서 갑자기 가격이 오르거나 떨어지거나 하는 현상에 대해 다룬다. 
 
 
 ## Event studies (Mackinlay)
