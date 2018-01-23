@@ -4,49 +4,49 @@
 
 ## What is a company worth? <a name="pm"></a>
 ### Key Terms and Support Resources
-- Intrinsic Value (³»Àç°¡Ä¡)
-    - ÈçÈ÷ ¸»ÇÏ´Â ±â¾÷ÀÇ °¡Ä¡, ³»Àç°¡Ä¡ ¶Ç´Â º»Áú°¡Ä¡, °íÀ¯°¡Ä¡, ½ÇÁú°¡Ä¡¿Í µ¿ÀÇ¾î
-    - ex) ÄÝ¿É¼ÇÀÇ Çà»ç°¡°ÝÀÌ 15¿øÀÌ°í, ±âÃÊÀÚ»êÀÇ °¡°ÝÀÌ ÇöÀç 25¿ø¾Æ¸é, ÀÌ ¿É¼ÇÀ» Çà»çÇÏ´Â °æ¿ì 10¿øÀÇ ÀÌÀÍ¿¡¼­ Áö±ÞÇÑ ÇÁ¸®¹Ì¾öÀ» Â÷°¨ÇÑ ¼öÀÍÀ» ¾òÀ» ¼ö ÀÖ°í, ÀÌ ¶§ ³»Àç°¡Ä¡´Â 10¿øÀÌ µÈ´Ù.
-    - Ç²¿É¼Ç : ÆÈ ¼ö ÀÖ´Â ±Ç¸® / ÄÝ¿É¼Ç : »ì ¼ö ÀÖ´Â ±Ç¸®<br><br>
-- Capital Assests Pricing Medel (CAPM, ÀÚº»ÀÚ»ê°¡°Ý°áÁ¤¸ðÇü)
-    - capital assest -> Àå±â ÀÚ»ê, pricing model -> °¡°ÝÀ» °áÁ¤ÇÏ´Âµ¥ »ç¿ëÇÏ´Â ¸ðµ¨
-    - ±×·¯³ª ½ÇÁ¦·Î Capital AssetÀ» °è»êÇØ ÁÖÁö ¾Ê´Â´Ù -> Discount Rate¸¸À» Á¦°ø
-    - Discount rate(ÇÒÀÎÀ²) : ÇöÀçÀÇ µ·°ú ¹Ì·¡ÀÇ µ·ÀÇ °¡Ä¡¸¦ ÇöÀç½ÃÁ¡À¸·Î ¹Ù²Ù´Â ±â´É<br>
-      Áï, cash flow(¹Ì·¡ÀÇ Çö±ÝÈå¸§)À» ÇÒÀÎÀ²À» »ç¿ëÇØ present value(ÇöÀç°¡Ä¡)·Î º¯°æ
+- Intrinsic Value (ë‚´ìž¬ê°€ì¹˜)
+    - í”ížˆ ë§í•˜ëŠ” ê¸°ì—…ì˜ ê°€ì¹˜, ë‚´ìž¬ê°€ì¹˜ ë˜ëŠ” ë³¸ì§ˆê°€ì¹˜, ê³ ìœ ê°€ì¹˜, ì‹¤ì§ˆê°€ì¹˜ì™€ ë™ì˜ì–´
+    - ex) ì½œì˜µì…˜ì˜ í–‰ì‚¬ê°€ê²©ì´ 15ì›ì´ê³ , ê¸°ì´ˆìžì‚°ì˜ ê°€ê²©ì´ í˜„ìž¬ 25ì›ì•„ë©´, ì´ ì˜µì…˜ì„ í–‰ì‚¬í•˜ëŠ” ê²½ìš° 10ì›ì˜ ì´ìµì—ì„œ ì§€ê¸‰í•œ í”„ë¦¬ë¯¸ì—„ì„ ì°¨ê°í•œ ìˆ˜ìµì„ ì–»ì„ ìˆ˜ ìžˆê³ , ì´ ë•Œ ë‚´ìž¬ê°€ì¹˜ëŠ” 10ì›ì´ ëœë‹¤.
+    - í’‹ì˜µì…˜ : íŒ” ìˆ˜ ìžˆëŠ” ê¶Œë¦¬ / ì½œì˜µì…˜ : ì‚´ ìˆ˜ ìžˆëŠ” ê¶Œë¦¬<br><br>
+- Capital Assests Pricing Medel (CAPM, ìžë³¸ìžì‚°ê°€ê²©ê²°ì •ëª¨í˜•)
+    - capital assest &rarr; ìž¥ê¸° ìžì‚°, pricing model &rarr; ê°€ê²©ì„ ê²°ì •í•˜ëŠ”ë° ì‚¬ìš©í•˜ëŠ” ëª¨ë¸
+    - ê·¸ëŸ¬ë‚˜ ì‹¤ì œë¡œ Capital Assetì„ ê³„ì‚°í•´ ì£¼ì§€ ì•ŠëŠ”ë‹¤ &rarr; Discount Rateë§Œì„ ì œê³µ
+    - Discount rate(í• ì¸ìœ¨) : í˜„ìž¬ì˜ ëˆê³¼ ë¯¸ëž˜ì˜ ëˆì˜ ê°€ì¹˜ë¥¼ í˜„ìž¬ì‹œì ìœ¼ë¡œ ë°”ê¾¸ëŠ” ê¸°ëŠ¥<br>
+      ì¦‰, cash flow(ë¯¸ëž˜ì˜ í˜„ê¸ˆíë¦„)ì„ í• ì¸ìœ¨ì„ ì‚¬ìš©í•´ present value(í˜„ìž¬ê°€ì¹˜)ë¡œ ë³€ê²½
 
 ### Intrinsic value : Value of future dividends
-- È¸»çÀÇ °¡Ä¡1 : È¸»çÀÇ ÁÖ½Ä ¼ö¿Í ÇöÀç °¡°ÝÀ» °öÇÑ °Í -> worth(°¡Ä¡)
-- È¸»çÀÇ °¡Ä¡2 : ÁöºÒÇÏ´Â dividends(¹è´ç±Ý)À» ±âÁØ
-- book value(ÀåºÎ°¡Ä¡) : ¼øÀÚ»ê(ÀÚº»ÃÑ°è), ¹Ì·¡°¡Ä¡¸¦ ¹«½ÃÇÒ ¶§ Áö±Ý ´çÀå ÆÈ ¼ö ÀÖ´Â °¡°Ý. Áï, ±Ç¸®±ÝÀÌ³ª ÇÁ¸®¹Ì¾öÀÌ ÀüÇô ºÙÁö ¾ÊÀº °¡°Ý
-- ³»Àç°¡Ä¡ : Á¤È®ÇÑ ¼ýÀÚ°¡ ¾Æ´Ñ ÃßÁ¤Ä¡. Áï, ÁÖ½ÄÃ¤±Ç ÀÌÀÚÀ²ÀÌ´Ù. ÀÏ°ü¼ºÀ» ÀÔÁõÇÑ Á¾¸ñÀÇ ÇöÀçºÎÅÍ Æ¯Á¤±â°£±îÁö Ã¢ÃâÇÏ´Â Çö±ÝÀ» ³â¼öÀÍ·ü·Î È¯»êÇÏ°í º¸¼öÀûÀÎ ½ÃÀå°¡Ä¡·Î °è»ê
-             ¿ö·± ¹öÇÍÀº ³»Àç°¡Ä¡ ¼öÀÍ·üÀÌ ³â 12~15% Á¾¸ñµé¸¸ ÀÎ¼ö
-- ½ÃÀå°¡Ä¡ : ÀåºÎ°¡Ä¡¿¡ ¹Ì·¡°¡Ä¡³ª ±Ç¸®±ÝÀÌ ºÙÀº ±Ý¾×, ÁÖ·Î PER·Î Ç¥½Ã, ½Ã°¡ÃÑ¾×
+- íšŒì‚¬ì˜ ê°€ì¹˜1 : íšŒì‚¬ì˜ ì£¼ì‹ ìˆ˜ì™€ í˜„ìž¬ ê°€ê²©ì„ ê³±í•œ ê²ƒ &rarr; worth(ê°€ì¹˜)
+- íšŒì‚¬ì˜ ê°€ì¹˜2 : ì§€ë¶ˆí•˜ëŠ” dividends(ë°°ë‹¹ê¸ˆ)ì„ ê¸°ì¤€
+- book value(ìž¥ë¶€ê°€ì¹˜) : ìˆœìžì‚°(ìžë³¸ì´ê³„), ë¯¸ëž˜ê°€ì¹˜ë¥¼ ë¬´ì‹œí•  ë•Œ ì§€ê¸ˆ ë‹¹ìž¥ íŒ” ìˆ˜ ìžˆëŠ” ê°€ê²©. ì¦‰, ê¶Œë¦¬ê¸ˆì´ë‚˜ í”„ë¦¬ë¯¸ì—„ì´ ì „í˜€ ë¶™ì§€ ì•Šì€ ê°€ê²©
+- ë‚´ìž¬ê°€ì¹˜ : ì •í™•í•œ ìˆ«ìžê°€ ì•„ë‹Œ ì¶”ì •ì¹˜. ì¦‰, ì£¼ì‹ì±„ê¶Œ ì´ìžìœ¨ì´ë‹¤. ì¼ê´€ì„±ì„ ìž…ì¦í•œ ì¢…ëª©ì˜ í˜„ìž¬ë¶€í„° íŠ¹ì •ê¸°ê°„ê¹Œì§€ ì°½ì¶œí•˜ëŠ” í˜„ê¸ˆì„ ë…„ìˆ˜ìµë¥ ë¡œ í™˜ì‚°í•˜ê³  ë³´ìˆ˜ì ì¸ ì‹œìž¥ê°€ì¹˜ë¡œ ê³„ì‚°
+             ì›ŒëŸ° ë²„í•ì€ ë‚´ìž¬ê°€ì¹˜ ìˆ˜ìµë¥ ì´ ë…„ 12~15% ì¢…ëª©ë“¤ë§Œ ì¸ìˆ˜
+- ì‹œìž¥ê°€ì¹˜ : ìž¥ë¶€ê°€ì¹˜ì— ë¯¸ëž˜ê°€ì¹˜ë‚˜ ê¶Œë¦¬ê¸ˆì´ ë¶™ì€ ê¸ˆì•¡, ì£¼ë¡œ PERë¡œ í‘œì‹œ, ì‹œê°€ì´ì•¡
 
 ### Fundamental Analysis of Company Value
 - company's worth -> effect the price of the stock of that company
-- Æò°¡ ¹æ¹ý1 : book value(ÀåºÎ°¡Ä¡), º»ÁúÀûÀÎ È¸»çÀÇ °¡Ä¡
-- Æò°¡ ¹æ¹ý2 : the value of future value / ÀÌ µÎ °¡Áö¸¦ ÇÕÄ£ °ÍÀÌ ½ÃÀå °¡Ä¡, ½Ã°¡ÃÑ¾×
-- Áï, ½Ã°¡ÃÑ¾×ÀÌ¶õ ÇöÀç °¡Ä¡¿Í ¹Ì·¡ °¡Ä¡¸¦ ÇÕÇÑ °ÍÀ» ÀÇ¹ÌÇÏ¸ç, ÀÌ°ÍÀº ±â¾÷ÀÌ ¾ó¸¶³ª ´ë´ÜÇÑ ±â¾÷ÀÎÁö¸¦ ³ªÅ¸³»´Â ÇÏ³ªÀÇ ÁöÇ¥°¡ µÈ´Ù.<br><br>
+- í‰ê°€ ë°©ë²•1 : book value(ìž¥ë¶€ê°€ì¹˜), ë³¸ì§ˆì ì¸ íšŒì‚¬ì˜ ê°€ì¹˜
+- í‰ê°€ ë°©ë²•2 : the value of future value / ì´ ë‘ ê°€ì§€ë¥¼ í•©ì¹œ ê²ƒì´ ì‹œìž¥ ê°€ì¹˜, ì‹œê°€ì´ì•¡
+- ì¦‰, ì‹œê°€ì´ì•¡ì´ëž€ í˜„ìž¬ ê°€ì¹˜ì™€ ë¯¸ëž˜ ê°€ì¹˜ë¥¼ í•©í•œ ê²ƒì„ ì˜ë¯¸í•˜ë©°, ì´ê²ƒì€ ê¸°ì—…ì´ ì–¼ë§ˆë‚˜ ëŒ€ë‹¨í•œ ê¸°ì—…ì¸ì§€ë¥¼ ë‚˜íƒ€ë‚´ëŠ” í•˜ë‚˜ì˜ ì§€í‘œê°€ ëœë‹¤.<br><br>
 
 ## Capital Assests Pricing Model<a name="mm"></a>
 ### Capital Assets Pricing Model
 - $CAPM : E(R_i)=R_f+\beta_i(E(R_m)-R_f)$
-- $E(R_i)$ : i¶ó´Â ÁÖ½ÄÀ» ÀÇ¹ÌÇÏ°í, ±×³É ÇÏ³ªÀÇ ÁÖ½ÄÀ» ÀÇ¹Ì. ¿ø·¡ÀÇ ÀÇ¹Ì´Â capital assetÀ¸·Î ÁÖ½Ä¸¸À» ÀÇ¹ÌÇÏ´Â °ÍÀº ¾Æ´ÏÁö¸¸, ÆíÀÇ»ó ÁÖ½ÄÀ¸·Î ÇØ¼®
-- $R_f$ : Risk-free rate, ÅõÀÚ¿¡ µû¸¥ À§ÇèÀÌ ÀüÇô ¾ø´Â, ¹«À§Çè ÀÚ»ê¿¡ ÅõÀÚÇßÀ» ¶§ÀÇ ¼öÀÍ·ü
-- $E(R_m)$ : ½ÃÀå¿¡ Á¸ÀçÇÏ´Â ¸ðµç ÀÚ»êµéÀ» ÀûÀýÈ÷ Æ÷ÇÔ½ÃÄÑ Æ÷Æ®Æú¸®¿À¸¦ ±¸¼ºÇßÀ» ¶§ ¿¹»óµÇ´Â ¼öÀÍ·ü. Market Portfolio¶ó°í ÇÏ¸ç, ½ÃÀå ÀüÃ¼ÀÇ Æò±Õ ¼öÀÍ·ü, ½ÃÀå ÀüÃ¼ÀÇ ¿¹»ó ¼öÀÍ·ü
-- $\beta_i$ : i¶ó´Â ÁÖ½ÄÀÇ ¿¹»ó ¼öÀÍ·ü°ú ½ÃÀå ÀüÃ¼ÀÇ ¿¹»ó ¼öÀÍ·ü »çÀÌÀÇ »ó°ü°ü°è
+- $E(R_i)$ : ië¼ëŠ” ì£¼ì‹ì„ ì˜ë¯¸í•˜ê³ , ê·¸ëƒ¥ í•˜ë‚˜ì˜ ì£¼ì‹ì„ ì˜ë¯¸. ì›ëž˜ì˜ ì˜ë¯¸ëŠ” capital assetìœ¼ë¡œ ì£¼ì‹ë§Œì„ ì˜ë¯¸í•˜ëŠ” ê²ƒì€ ì•„ë‹ˆì§€ë§Œ, íŽ¸ì˜ìƒ ì£¼ì‹ìœ¼ë¡œ í•´ì„
+- $R_f$ : Risk-free rate, íˆ¬ìžì— ë”°ë¥¸ ìœ„í—˜ì´ ì „í˜€ ì—†ëŠ”, ë¬´ìœ„í—˜ ìžì‚°ì— íˆ¬ìží–ˆì„ ë•Œì˜ ìˆ˜ìµë¥ 
+- $E(R_m)$ : ì‹œìž¥ì— ì¡´ìž¬í•˜ëŠ” ëª¨ë“  ìžì‚°ë“¤ì„ ì ì ˆížˆ í¬í•¨ì‹œì¼œ í¬íŠ¸í´ë¦¬ì˜¤ë¥¼ êµ¬ì„±í–ˆì„ ë•Œ ì˜ˆìƒë˜ëŠ” ìˆ˜ìµë¥ . Market Portfolioë¼ê³  í•˜ë©°, ì‹œìž¥ ì „ì²´ì˜ í‰ê·  ìˆ˜ìµë¥ , ì‹œìž¥ ì „ì²´ì˜ ì˜ˆìƒ ìˆ˜ìµë¥ 
+- $\beta_i$ : ië¼ëŠ” ì£¼ì‹ì˜ ì˜ˆìƒ ìˆ˜ìµë¥ ê³¼ ì‹œìž¥ ì „ì²´ì˜ ì˜ˆìƒ ìˆ˜ìµë¥  ì‚¬ì´ì˜ ìƒê´€ê´€ê³„
 - Expected Rate of Return = Risk-free Rate + $\beta${Expected Market Return - Risk-free Rate}
 - Expected Rate of Return = Risk-free Rate + Risk Premium
-- $\beta_i=\frac{Cov(R_i,R_M)}{\sigma^2(R_M)}$ °³º°ÁÖ½Äi¿Í ½ÃÀå°úÀÇ »ó°ü°ü°è¸¦ ³ªÅ¸³»´Â Covariance(°øºÐ»ê), ½ÃÀå ¼öÀÍ·üÀÇ Variance(ºÐ»ê)À» ³ªÅ¸³½´Ù
+- $\beta_i=\frac{Cov(R_i,R_M)}{\sigma^2(R_M)}$ ê°œë³„ì£¼ì‹iì™€ ì‹œìž¥ê³¼ì˜ ìƒê´€ê´€ê³„ë¥¼ ë‚˜íƒ€ë‚´ëŠ” Covariance(ê³µë¶„ì‚°), ì‹œìž¥ ìˆ˜ìµë¥ ì˜ Variance(ë¶„ì‚°)ì„ ë‚˜íƒ€ë‚¸ë‹¤
 
 ### CAPM : What is Beta?
-- À§¿¡¼­ ³ªÅ¸³½ °Í°ú °°ÀÌ º£Å¸ÀÇ Á¤ÀÇ´Â À§¿Í °°´Ù.
-- ½ÃÀå°¡°ÝÀÌ µÎ °¡Áö ¿äÀÎ¿¡ ÀÇÇØ °áÁ¤µÈ´Ù°í °¡Á¤ÇØ º¸ÀÚ. ÇÏ³ª´Â ½ÃÀå ÀüÃ¼ÀÇ ÁÁ°í ³ª»Ý, ´Ù¸¥ ÇÏ³ª´Â ½ÃÀå°ú´Â »ó°ü¾ø´Â °³º° ±â¾÷ Æ¯À¯ÀÇ °æ¿µ ´É·Â µîÀÌ´Ù.
-- $R_i=\alpha_i+\beta_iR_m+e_i$ ¿©±â¼­ $R_m$Àº ½ÃÀå ÀüÃ¼Àû ¿äÀÎ, $e_i$´Â °³º° ±â¾÷Àû ¿äÀÎÀÌ´Ù. ¿©±â¼­ °³º° ±â¾÷ Æ¯À¯ÀÇ ¿äÀÎÀ¸·Î ÀÎÇÑ ºÎºÐÀÌ ¾ø´Ù°í °¡Á¤ÇÏ¸é ¿¹»ó°ªÀº
-- $E(R_i)=\alpha_i+\beta_iE(R_m)$ ÀÌ µÈ´Ù. ¿©±â¼­ CAPM¿¡ ÀÇÇÏ¸é
-- $E(R_i)=\alpha_i+\beta_i(E(R_m)-R_f)$ ¶ó´Â °ü°è°¡ ¼º¸³µÈ´Ù. CAPM¿¡¼­ÀÇ º£Å¸¿Í µÎ ¹øÂ° ¼ö½Ä¿¡¼­ÀÇ º£Å¸´Â ¼öÇÐÀûÀ¸·Î Á¤È®ÇÏ°Ô ÀÏÄ¡ÇÑ´Ù.
-- Áï, Á÷¼± °ü°èÀÇ ±â¿ï±â¸¦ ±¸ÇÏ´Â °ø½ÄÀº $Cov(R_i,R_m)/\sigma^2(R_m)$ À¸·Î, CAPM¿¡¼­ º£Å¸ÀÇ Á¤ÀÇ¿Í Á¤È®ÇÏ°Ô ÀÏÄ¡ÇÑ´Ù.
+- ìœ„ì—ì„œ ë‚˜íƒ€ë‚¸ ê²ƒê³¼ ê°™ì´ ë² íƒ€ì˜ ì •ì˜ëŠ” ìœ„ì™€ ê°™ë‹¤.
+- ì‹œìž¥ê°€ê²©ì´ ë‘ ê°€ì§€ ìš”ì¸ì— ì˜í•´ ê²°ì •ëœë‹¤ê³  ê°€ì •í•´ ë³´ìž. í•˜ë‚˜ëŠ” ì‹œìž¥ ì „ì²´ì˜ ì¢‹ê³  ë‚˜ì¨, ë‹¤ë¥¸ í•˜ë‚˜ëŠ” ì‹œìž¥ê³¼ëŠ” ìƒê´€ì—†ëŠ” ê°œë³„ ê¸°ì—… íŠ¹ìœ ì˜ ê²½ì˜ ëŠ¥ë ¥ ë“±ì´ë‹¤.
+- $R_i=\alpha_i+\beta_iR_m+e_i$ ì—¬ê¸°ì„œ $R_m$ì€ ì‹œìž¥ ì „ì²´ì  ìš”ì¸, $e_i$ëŠ” ê°œë³„ ê¸°ì—…ì  ìš”ì¸ì´ë‹¤. ì—¬ê¸°ì„œ ê°œë³„ ê¸°ì—… íŠ¹ìœ ì˜ ìš”ì¸ìœ¼ë¡œ ì¸í•œ ë¶€ë¶„ì´ ì—†ë‹¤ê³  ê°€ì •í•˜ë©´ ì˜ˆìƒê°’ì€
+- $E(R_i)=\alpha_i+\beta_iE(R_m)$ ì´ ëœë‹¤. ì—¬ê¸°ì„œ CAPMì— ì˜í•˜ë©´
+- $E(R_i)=\alpha_i+\beta_i(E(R_m)-R_f)$ ë¼ëŠ” ê´€ê³„ê°€ ì„±ë¦½ëœë‹¤. CAPMì—ì„œì˜ ë² íƒ€ì™€ ë‘ ë²ˆì§¸ ìˆ˜ì‹ì—ì„œì˜ ë² íƒ€ëŠ” ìˆ˜í•™ì ìœ¼ë¡œ ì •í™•í•˜ê²Œ ì¼ì¹˜í•œë‹¤.
+- ì¦‰, ì§ì„  ê´€ê³„ì˜ ê¸°ìš¸ê¸°ë¥¼ êµ¬í•˜ëŠ” ê³µì‹ì€ $Cov(R_i,R_m)/\sigma^2(R_m)$ ìœ¼ë¡œ, CAPMì—ì„œ ë² íƒ€ì˜ ì •ì˜ì™€ ì •í™•í•˜ê²Œ ì¼ì¹˜í•œë‹¤.
 
 ### How Hedge Funds Use CAPM
-- ÃÊ°ú ¼öÀÍ·üÀº Æ÷Æ®Æú¸®¿ÀÀÇ º£Å¸°¡ 1º¸´Ù Å©¸é µÈ´Ù (º£Å¸´Â ±â¿ï±â)
-- °¢ ÁÖ½ÄÀÇ Æ÷Æ®Æú¸®¿ÀÀÇ º£Å¸¿Í ¾ËÆÄ¸¦ ¾Ë°í, ºÐ»ê ÅõÀÚ¸¦ ÇÏ¸é, ½ÃÀå ¼öÀÍ·üÀ» ÃÊ°úÇÒ ¼ö ÀÖ´Â ¼öÀÍ·üÀ» ³¾ ¼ö ÀÖ´Ù.
+- ì´ˆê³¼ ìˆ˜ìµë¥ ì€ í¬íŠ¸í´ë¦¬ì˜¤ì˜ ë² íƒ€ê°€ 1ë³´ë‹¤ í¬ë©´ ëœë‹¤ (ë² íƒ€ëŠ” ê¸°ìš¸ê¸°)
+- ê° ì£¼ì‹ì˜ í¬íŠ¸í´ë¦¬ì˜¤ì˜ ë² íƒ€ì™€ ì•ŒíŒŒë¥¼ ì•Œê³ , ë¶„ì‚° íˆ¬ìžë¥¼ í•˜ë©´, ì‹œìž¥ ìˆ˜ìµë¥ ì„ ì´ˆê³¼í•  ìˆ˜ ìžˆëŠ” ìˆ˜ìµë¥ ì„ ë‚¼ ìˆ˜ ìžˆë‹¤.
