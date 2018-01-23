@@ -1,23 +1,22 @@
 ## Hedge Funds - Private Equity Funds
+ë‘˜ì€ ì—¬ëŸ¬ íˆ¬ìžìžë“¤ë¡œë¶€í„° ìžê¸ˆì„ ëª¨ì•„ì„œ íˆ¬ìžë¥¼ í•˜ê³ , ìˆ˜ìµì„ íˆ¬ìžìžë“¤ì—ê²Œ ë¶„ë°°í•˜ëŠ” íŽ€ë“œë¡œì„œì˜ ê¸°ë³¸ ì„±ì§ˆì€ ë™ì¼. ê·¸ëŸ¬ë‚˜ íˆ¬ìž ëª©ì ì´ ë‹¤ë¥´ê³ , ì´ë¡œë¶€í„° íŒŒìƒë˜ëŠ” ì—¬ëŸ¬ ì°¨ì´ë“¤ì´ ìžˆìŒ.
 
-### µÑÀº ¿©·¯ ÅõÀÚÀÚµé·ÎºÎÅÍ ÀÚ±ÝÀ» ¸ð¾Æ¼­ ÅõÀÚ¸¦ ÇÏ°í, ¼öÀÍÀ» ÅõÀÚÀÚµé¿¡°Ô ºÐ¹èÇÏ´Â ÆÝµå·Î¼­ÀÇ ±âº» ¼ºÁúÀº µ¿ÀÏ. ±×·¯³ª ÅõÀÚ ¸ñÀûÀÌ ´Ù¸£°í, ÀÌ·ÎºÎÅÍ ÆÄ»ýµÇ´Â ¿©·¯ Â÷ÀÌµéÀÌ ÀÖÀ½.
+### Hedge Funds(í—¤ì§€íŽ€ë“œ)
+- Short-term investment <br>
+ëª©í‘œê°€ ë‹¨ê¸°ê°„ì— ê³ ìˆ˜ìµì„ ì·¨í•˜ëŠ” ê²ƒ. ì¦‰, ë‹¨ê¸°ìˆ˜ìµ ê·¹ëŒ€í™”
+- Liquid assets <br>
+ìœ ë™ì„±ì´ ë†’ì€ ìžì‚°ì— ì£¼ë¡œ íˆ¬ìž. ì£¼ì‹ì— ê·¹í•œë˜ì§€ ì•Šê³ , ê¸°íƒ€ ìžì‚°, ì±„ê¶Œ, í†µí™”, íŒŒìƒìƒí’ˆ ë“± ë‹¤ì–‘
+- Open-end <br>
+ìœ ë™ì„±ì´ ë†’ì€ ë§Œí¼ ì¤‘ê°„ì— ì°¸ê°€/ê°€ìž…, íƒˆí‡´/í•´ì§€ ê°€ ë¹„êµì„ ì‰¬ì›€
+- No duration <br>
+í†µìƒ íŽ€ë“œ ìžì²´ì˜ ì¡´ì†ê¸°ê°„ì´ íŠ¹ë³„ížˆ ì—†ìŒ
 
-### Hedge Funds(ÇìÁöÆÝµå)
-- Short-term investment<br>
- -> ¸ñÇ¥°¡ ´Ü±â°£¿¡ °í¼öÀÍÀ» ÃëÇÏ´Â °Í. Áï, ´Ü±â¼öÀÍ ±Ø´ëÈ­
-- Liquid assets<br>
- -> À¯µ¿¼ºÀÌ ³ôÀº ÀÚ»ê¿¡ ÁÖ·Î ÅõÀÚ. ÁÖ½Ä¿¡ ±ØÇÑµÇÁö ¾Ê°í, ±âÅ¸ ÀÚ»ê, Ã¤±Ç, ÅëÈ­, ÆÄ»ý»óÇ° µî ´Ù¾ç
-- Open-end<br>
- -> À¯µ¿¼ºÀÌ ³ôÀº ¸¸Å­ Áß°£¿¡ Âü°¡/°¡ÀÔ, Å»Åð/ÇØÁö °¡ ºñ±³¼® ½¬¿ò
-- No duration<br>
- -> Åë»ó ÆÝµå ÀÚÃ¼ÀÇ Á¸¼Ó±â°£ÀÌ Æ¯º°È÷ ¾øÀ½
-
-### Private Equity Funds(»ç¸ðÆÝµå)
-- Long-term investment<br>
- -> »ó´ëÀûÀ¸·Î Àå±â ¼öÀÍ µµ¸ð
-- Illiquid assets<br>
- -> ÁÖ·Î »ç¾÷È¸»çÀÇ ÁöºÐÁõ±Ç¿¡ ÅõÀÚ, ÅõÀÚ´ë»óÀÌ ºñ»óÀå ÁÖ½ÄÀÎ °æ¿ì°¡ ¸¹°í, »óÀåÈ¸»ç ÁÖ½ÄÀÌ¶ó ÇØµµ ÁöºÐ±Ô¸ð³ª Áõ±Ç¹ý¿¡ µû¸¥ ±ÔÁ¦ µîÀ¸·Î Ã³ºÐ»óÀÇ Á¦¾àÀÌ ÀÖ¾î, À¯µ¿¼ºÀÌ ¶³¾îÁü
-- Close-end<br>
- -> ÆÝµå°¡ Á¶¼ºµÇ°í ³ª¸é ±× ÀÌÈÄ ÅõÀÚÀÚÀÇ Âü°¡ ¹× Å»±«°¡ ºñ±³Àû ¾î·Á¿ò
-- Duration<br>
- -> ´ë½Å Á¸¼Ó±â°£(°¡³ç 10³â µî)ÀÌ Á¤ÇØÁ®¼­ ÀÏÁ¤±â°£ ÈÄ Ã»»êÀ» ÇÏ¿© ÅõÀÚ±ÝÀ» ºÐ¹è
+### Private Equity Funds(ì‚¬ëª¨íŽ€ë“œ)
+- Long-term investment <br>
+ìƒëŒ€ì ìœ¼ë¡œ ìž¥ê¸° ìˆ˜ìµ ë„ëª¨
+- Illiquid assets <br>
+ì£¼ë¡œ ì‚¬ì—…íšŒì‚¬ì˜ ì§€ë¶„ì¦ê¶Œì— íˆ¬ìž, íˆ¬ìžëŒ€ìƒì´ ë¹„ìƒìž¥ ì£¼ì‹ì¸ ê²½ìš°ê°€ ë§Žê³ , ìƒìž¥íšŒì‚¬ ì£¼ì‹ì´ë¼ í•´ë„ ì§€ë¶„ê·œëª¨ë‚˜ ì¦ê¶Œë²•ì— ë”°ë¥¸ ê·œì œ ë“±ìœ¼ë¡œ ì²˜ë¶„ìƒì˜ ì œì•½ì´ ìžˆì–´, ìœ ë™ì„±ì´ ë–¨ì–´ì§
+- Close-end <br>
+íŽ€ë“œê°€ ì¡°ì„±ë˜ê³  ë‚˜ë©´ ê·¸ ì´í›„ íˆ¬ìžìžì˜ ì°¸ê°€ ë° íƒˆê´´ê°€ ë¹„êµì  ì–´ë ¤ì›€
+- Duration <br>
+ëŒ€ì‹  ì¡´ì†ê¸°ê°„(ê°€ë…• 10ë…„ ë“±)ì´ ì •í•´ì ¸ì„œ ì¼ì •ê¸°ê°„ í›„ ì²­ì‚°ì„ í•˜ì—¬ íˆ¬ìžê¸ˆì„ ë¶„ë°°
