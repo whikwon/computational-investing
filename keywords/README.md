@@ -7,4 +7,9 @@
 - [Put option](./put_option.md)
 - [Call option](./call_option.md)
 - [Short selling](./short_selling.md)
+- [Underlying asset](./underlying_asset.md)
+- [Strike price](./strike_price.md)
+- [Intrinsic value](./instrinsic_value.md)
+- [Event study](./event_study.md)
+
 

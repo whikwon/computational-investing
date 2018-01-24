@@ -1,8 +1,8 @@
 ## Summary
-- [What is a company worth?](#pm)
-- [Capital Assests Pricing Model](#mm)
+- [What is a Company Worth?](#pm)
+- [Capital Assets Pricing Model](#mm)
 
-## What is a company worth? <a name="pm"></a>
+## What is a Company Worth? <a name="pm"></a>
 ### Key Terms and Support Resources
 - Intrinsic Value (내재가치)
     - 흔히 말하는 기업의 가치, 내재가치 또는 본질가치, 고유가치, 실질가치와 동의어
@@ -14,7 +14,7 @@
     - Discount rate(할인율) : 현재의 돈과 미래의 돈의 가치를 현재시점으로 바꾸는 기능<br>
       즉, cash flow(미래의 현금흐름)을 할인율을 사용해 present value(현재가치)로 변경
 
-### Intrinsic value : Value of future dividends
+### Intrinsic Value : Value of Future Dividends
 - 회사의 가치1 : 회사의 주식 수와 현재 가격을 곱한 것 &rarr; worth(가치)
 - 회사의 가치2 : 지불하는 dividends(배당금)을 기준
 - book value(장부가치) : 순자산(자본총계), 미래가치를 무시할 때 지금 당장 팔 수 있는 가격. 즉, 권리금이나 프리미엄이 전혀 붙지 않은 가격
@@ -23,7 +23,7 @@
 - 시장가치 : 장부가치에 미래가치나 권리금이 붙은 금액, 주로 PER로 표시, 시가총액
 
 ### Fundamental Analysis of Company Value
-- company's worth -> effect the price of the stock of that company
+- company's worth &rarr; effect the price of the stock of that company
 - 평가 방법1 : book value(장부가치), 본질적인 회사의 가치
 - 평가 방법2 : the value of future value / 이 두 가지를 합친 것이 시장 가치, 시가총액
 - 즉, 시가총액이란 현재 가치와 미래 가치를 합한 것을 의미하며, 이것은 기업이 얼마나 대단한 기업인지를 나타내는 하나의 지표가 된다.<br><br>
