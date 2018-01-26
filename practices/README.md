@@ -5,3 +5,7 @@
     - [X] 데이터 다운로드 API 구축 
     - [ ] 데이터 분석 
 - [ ] 기업 선정 후 주식 데이터를 활용해서 CAPM 확인 
+- [ ] pyfolio 코드 분석
+    - Sharpe ratio, beta 등 실제로 구할 때 코드 분석한 뒤 적용 
+- [ ] Quantopian 살펴보기 
+    - [X] research_public repo 살펴보기 

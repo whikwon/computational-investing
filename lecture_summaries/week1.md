@@ -3,7 +3,7 @@
 - [Market mechanics](#mm)
 
 ## Portfolio Management <a name="pm"></a>
-- [Expensive ratio](https://www.investopedia.com/terms/e/expenseratio.asp): 투자 회사가 mutual fund/ETF를 운영하는데 드는 비용의 척도. 주로 전체 자산의 1% 미만으로 책정한다. 
+- Expensive ratio: 투자 회사가 mutual fund/ETF를 운영하는데 드는 비용의 척도. 주로 전체 자산의 1% 미만으로 책정한다. 
 - Hedge Fund
     - Two and twenty: Hedge fund의 기본 구조이다. 전체 자산의 2%와 이익의 20%를 가져가는 구조이다. 
     - 주요 투자자: 주로 기관 투자자와 소수의 부자로부터 투자 받음. 
@@ -24,8 +24,8 @@
 - Risk 측정 기준
     - volatility(변동성): 포트폴리오의 변동성을 나타내며 daily 변화에 대한 표준편차로 측정한다.
     - draw down(추세 하락폭): 전체 포트폴리오가 무너졌을 때 가치가 급격하게 내려간 정도
-        - [maximum drawdown](https://en.wikipedia.org/wiki/Drawdown_(economics)): drawdown중 가장 큰 값. 최악의 상황에 어느 정도 떨어질 지 나타내준다. 
-    - [Sharpe Ratio](https://www.investopedia.com/terms/s/sharperatio.asp): 부담하는 위험에 대해 얼마나 보상받는지 나타낸다. 식은 기대 수익/risk 으로 정의되며 강의에서 risk는 변동성을 사용하였다. 
+        - maximum drawdown: drawdown중 가장 큰 값. 최악의 상황에 어느 정도 떨어질 지 나타내준다. 
+    - Sharpe Ratio: 부담하는 위험에 대해 얼마나 보상받는지 나타낸다. 식은 기대 수익/risk 으로 정의되며 강의에서 risk는 변동성을 사용하였다. 
     - jensen's alpha: 부담하는 위험에 대해 얼마나 보상받는지 나타낸다.
 
 ## Market Mechanics <a name="mm"></a>
@@ -34,12 +34,12 @@
     - bid: 주식을 사려는 가격
     - spread: 가장 낮은 ask와 가장 높은 bid의 가격 차이. 거래가 활발한 주식의 경우 매우 낮게 형성된다. 
 - order: 주식 주문을 뜻하며 크게 매도(sell)/매수(buy)가 있다. (*브로커가 있다면 더 복잡한 order 가능*) 
-- [order book](https://www.investopedia.com/terms/o/order-book.asp)(호가창): 투자자들의 주문이 체결되어 가격이 결정되는 곳 
+- order book: 투자자들의 주문이 체결되어 가격이 결정되는 곳 
 - order types 
     - market order: 시장의 가격에 매도/매수한다. 
     - limit order: 정해진 가격에 매도/매수한다. 
 - 거래가 성사되는 경우
-    - [crossing the spread](https://www.investopedia.com/terms/c/crossedmarket.asp): 가장 높은 bid와 가장 낮은 ask가 교차하면서 거래가 성사되는 것을 의미한다. 
+    - crossing the spread: 가장 높은 bid와 가장 낮은 ask가 교차하면서 거래가 성사되는 것을 의미한다. 
     - market order 
     - 위 2가지 경우에 의해 거래가 성사되는 경우 경계값에 해당하는 주식이 사라지게 되면 가격 변동이 생기게 된다.
 - 주식 거래 프로세스(개인)
@@ -67,16 +67,6 @@
     - 느린 정보에는 Analyst의 분석, 예측이 있다.
     - 빠른 정보에는 특정 이벤트에 대한 뉴스가 있다. 
 
-### 찾아볼 키워드 
-- Hedge Fund
-- Mutual Fund 
-- pigeonhole principle([비둘기집의 원리](https://namu.wiki/w/%EB%B9%84%EB%91%98%EA%B8%B0%20%EC%A7%91%EC%9D%98%20%EC%9B%90%EB%A6%AC)): n+1 마리의 비둘기가 n개의 비둘기 집에 들어가려면 최소 한 개의 비둘기 집에는 두마리 이상의 비둘기가 들어가야 한다는 원리
-- liquid asset 
-- [fat finger error](https://en.wikipedia.org/wiki/Fat-finger_error): 실수에 의해서 큰 주식 거래가 단번에 이루어지는 것. 
+### Reference
 
-### 실습
-- 관심주에 대한 risk/보상 파악하기
-    - drawdown: 일정 기준 이상의 drawdown 발생 시 알림 방법?
-    - volatility: 공기업/사기업 간의 변동성 비교하기
-    - Sharpe ratio: 공기업/사기업 간의 Shape ratio 비교를 통해 성향에 따라 어디에 투자하는게 좋은지 판단하기
-    - Quant Shop(실제로 나중에 할 수 있는 거래 방법)을 모듈화해서 어떤 알고리즘/정보를 사용할 수 있을지 전략 짜보기 
+- Coursera - Computational Investing Week 1 
