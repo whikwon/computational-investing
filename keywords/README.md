@@ -11,5 +11,5 @@
 - [Strike price](./strike_price.md)
 - [Intrinsic value](./instrinsic_value.md)
 - [Event study](./event_study.md)
-
+- [Bollinger band](./bollinger_band.md)
 
