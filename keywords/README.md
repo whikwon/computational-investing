@@ -13,4 +13,5 @@
 - [Event study](./event_study.md)
 - [Bollinger band](./bollinger_band.md)
 - [Capital increase with consideration](./capital_increase_with_consideration.md)
+- [PBR, PER](./PBR,PER.md)
 
