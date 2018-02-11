@@ -10,7 +10,6 @@
   - 위 문제를 해결하기 위해서 과거부터 계속 존재한 주식만을 고려하는 방법이 있다. 
   - 무작위로 portfolio를 구성해서 back-test를 진행하고 여기서 얻는 평균적인 값을 baseline으로 설정하는 방법도 있다. baseline과 우리가 구성한 portfolio의 test 결과와 비교한 경우에 성능을 얻을 수 있다. 
 
-
 ### Actual vs Adjusted Price
 - Actual price(close): 마감 종가로 장 중에 변한 가격만 고려한 시장에서 거래되는 가격이다. 
 - Adjusted price(Adjusted close): 수정 종가로 주식의 가격에 영향을 미칠수 있는 distribution(유통)을 고려해서 조정한 가격이다. distribution에는 cash dividends, stock dividends, stock splits 등이 포함된다. 쉽게 설명하면 주주들에게 배분된 배당금, 주식 분할을 모두 고려했을 때의 과거로부터 지금까지 얻은 return을 가격으로 책정하는 경우가 많다. 
