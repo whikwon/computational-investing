@@ -18,8 +18,10 @@
 - [Adjusted price](./adjusted_price.md)
 - [Distribution](./distribution.md)
 - [Order book](./order_book.md)
-
-
 - [PBR, PER, ROE, EPS](./pbr_per_roe_eps.md)
 - [RSI](./rsi.md)
-
+- [Preffered stock](./preferred_stock.md)
+- [Outstanding share](./outstanding_share.md)
+- [Benjamin Graham formula](./benjamin_graham_formula.md)
+- [EPS](./earning_per_share.md)
+- [Restricted stock](./restricted_stock.md)
